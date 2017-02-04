@@ -88,3 +88,28 @@ include the code that creates the PNG file.
 When you are finished with the assignment, push your git repository to
 GitHub so that the GitHub version of your repository is up to
 date. There should be four PNG files and four R code files.
+
+
+The four plots that you will need to construct are shown below. 
+
+
+### Plot 1
+
+
+![plot 1](graph/plot1.png) 
+
+
+### Plot 2
+
+![plot 2](graph/plot2.png) 
+
+
+### Plot 3
+
+![plot 3](graph/plot3.png) 
+
+
+### Plot 4
+
+![plot 4](graph/plot4.png) 
+
